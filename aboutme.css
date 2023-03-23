@@ -1,0 +1,42 @@
+  h1{
+  font-family: 'GowaRegular';
+   font-weight: normal;
+   font-style: normal;
+   text-align: center;
+   font-size: 70px;
+   border: 5px solid black;
+   border-width: 10px;
+   border-color: crimson;
+  color: red;
+}
+
+p {
+   font-family: 'GowaRegular';
+   font-weight: normal;
+   font-style: normal;
+  font-size: 30px;
+  border:5px solid #00ff11 ;
+  background-color: #0011ff;
+  color: red;
+}
+
+li{
+  font-family: 'LucymarSansRegular';
+   font-weight: normal;
+   font-style: normal;
+  font-size: 20px;
+}
+body{
+  background-color: #00aaff;
+}
+
+div{
+  border: 5px solid #ff0000;
+  color: #0400ff;
+}
+
+span{
+ font-family: 'TomorrowRegular';
+   font-weight: normal;
+   font-style: normal;
+}

@@ -1,0 +1,21 @@
+h1{
+  border: 5px  solid red;
+  width: auto;
+  text-align: center;
+  color: green;
+  font-family: 'TGRomanRegular';
+   font-weight: normal;
+   font-style: normal;
+}
+
+body{
+  background-color: #00eeff;
+}
+
+img{
+  width: auto;
+}
+
+p{
+  
+}
